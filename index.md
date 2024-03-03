@@ -41,6 +41,13 @@ feature_row:
     url: "/posts/DWSBV"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/MIT-OS1.png
+    alt: "Begin of OS"
+    title: "MIT OS Course"
+    excerpt: "Lab of the course"
+    url: "/posts/MIT-OS"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 
 {% include feature_row %}
