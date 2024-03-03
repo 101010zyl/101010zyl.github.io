@@ -10,6 +10,8 @@ header:
   
 excerpt: >
   A third year undergrade from Hust.
+
+
 feature_row:
   - image_path: /assets/images/CPLP-final.gif
     alt: "Weird Env"
@@ -25,7 +27,7 @@ feature_row:
     url: "/posts/ACTB"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/ATWC.gif
+  - image_path: /assets/images/ALPC.gif
     alt: "Begin of Contonl"
     title: "Auto Line Patrol Car"
     excerpt: "Controlled by an Arduino microcontroller."
