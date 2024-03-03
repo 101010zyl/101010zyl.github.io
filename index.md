@@ -13,6 +13,20 @@ excerpt: >
 
 
 feature_row:
+  - image_path: /assets/images/MIT-OS1.png
+    alt: "Begin of OS"
+    title: "MIT OS Course"
+    excerpt: "Lab of the course"
+    url: "/posts/MIT-OS"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/PC1.png
+    alt: "Begin of PWN"
+    title: "Record of pwn.college"
+    excerpt: "Beginner of PWN"
+    url: "/posts/PC"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
   - image_path: /assets/images/CPLP-final.gif
     alt: "Weird Env"
     title: "C PL Project based on Dosbox"
@@ -39,13 +53,6 @@ feature_row:
     title: "Dual Wheel Self Balance Vehicle"
     excerpt: "STM32 microcontroller with a acceleration sensor."
     url: "/posts/DWSBV"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/MIT-OS1.png
-    alt: "Begin of OS"
-    title: "MIT OS Course"
-    excerpt: "Lab of the course"
-    url: "/posts/MIT-OS"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
