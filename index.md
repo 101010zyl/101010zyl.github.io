@@ -12,26 +12,33 @@ excerpt: >
   A third year undergrade from Hust.
 feature_row:
   - image_path: /assets/images/CPLP-final.gif
-    alt: "customizable"
+    alt: "Weird Env"
     title: "C PL Project based on Dosbox"
     excerpt: "A USV emulator developed and tested in Dosbox"
     url: "/posts/CPLP"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+  - image_path: /assets/images/ACTB.gif
+    alt: "Begin of ML"
+    title: "Automatically Classification Trash Bin"
+    excerpt: "Deploy Yolov5 and Tensorrt for  Object detection."
     url: "/posts/ACTB"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+  - image_path: /assets/images/ATWC.gif
+    alt: "Begin of Contonl"
+    title: "Auto Line Patrol Car"
+    excerpt: "Controlled by an Arduino microcontroller."
+    url: "/posts/ALPC"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
+  - image_path: /assets/images/DWSBV.gif
+    alt: "Begin of STM32"
+    title: "Dual Wheel Self Balance Vehicle"
+    excerpt: "STM32 microcontroller with a acceleration sensor."
+    url: "/posts/DWSBV"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 
 {% include feature_row %}
