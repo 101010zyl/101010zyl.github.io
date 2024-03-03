@@ -3,16 +3,15 @@ layout: splash
 author_profile: true
 permalink: /
 hidden: true
+
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+  
 excerpt: >
   A third year undergrade from Hust.
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/CPLP-final.gif
     alt: "customizable"
     title: "C PL Project based on Dosbox"
     excerpt: "A USV emulator developed and tested in Dosbox"
@@ -23,7 +22,7 @@ feature_row:
     alt: "fully responsive"
     title: "Responsive layouts"
     excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    url: "/posts/ACTB"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
