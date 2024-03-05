@@ -9,8 +9,7 @@ header:
   overlay_image: /assets/images/bg-header.jpg
   
 excerpt: >
-  Dig holes and play alchemy.
-  
+  Dig holes and play alchemy.\
   You can [download my CV](https://101010zyl.github.io/assets/cv_Yilin.pdf) here.
 
 feature_row:
