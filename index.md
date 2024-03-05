@@ -9,8 +9,8 @@ header:
   overlay_image: /assets/images/bg-header.jpg
   
 excerpt: >
-  A third year undergrade from Hust.
-
+  Dig holes and play alchemy.
+  You can [download my CV](https://101010zyl.github.io/assets/cv_Yilin.pdf) here.
 
 feature_row:
   - image_path: /assets/images/MIT-OS1.png
