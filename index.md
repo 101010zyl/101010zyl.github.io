@@ -7,18 +7,18 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/bg-header.jpg
-  
+
 excerpt: |
   Dig holes and play alchemy.
-  
+
   You can [download my CV](https://101010zyl.github.io/assets/cv_Yilin.pdf) here.
 
-About_me:
-    title: "About Me"
-    content: |
-    I’m a senior student from Huazhong University of Science and Technology (HUST). 
-    I am now doing a research internship at PSU under the guidance of Dr. Zhiyun Qian. 
-    My research interests include static program analysis for linux kernel.
+# About_me:
+#     title: "About Me"
+#     content: |
+#     I’m a senior student from Huazhong University of Science and Technology (HUST).
+#     I am now doing a research internship at PSU under the guidance of Dr. Zhiyun Qian.
+#     My research interests include static program analysis for linux kernel.
 
 feature_row:
   - image_path: /assets/images/MIT-OS1.png
@@ -55,7 +55,7 @@ feature_row:
     excerpt: "Controlled by an Arduino microcontroller."
     url: "/posts/ALPC"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"
   - image_path: /assets/images/DWSBV.gif
     alt: "Begin of STM32"
     title: "Dual Wheel Self Balance Vehicle"
@@ -66,4 +66,3 @@ feature_row:
 ---
 
 {% include feature_row %}
-
