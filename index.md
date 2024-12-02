@@ -9,16 +9,15 @@ header:
   overlay_image: /assets/images/bg-header.jpg
 
 excerpt: |
-  Dig holes and play alchemy.
-
-  You can [download my CV](https://101010zyl.github.io/assets/cv_Yilin.pdf) here.
+#   Dig holes and play alchemy.
+    I’m a senior student from Huazhong University of Science and Technology (HUST).
+    I am now doing a research internship at UC Riverside under the guidance of Dr. Zhiyun Qian.
+    My research interests include static program analysis and fuzzing for linux kernel. |
+    You can [download my CV](https://101010zyl.github.io/assets/cv_Yilin.pdf) here.
 
 # About_me:
 #     title: "About Me"
 #     content: |
-#     I’m a senior student from Huazhong University of Science and Technology (HUST).
-#     I am now doing a research internship at PSU under the guidance of Dr. Zhiyun Qian.
-#     My research interests include static program analysis for linux kernel.
 
 feature_row:
   - image_path: /assets/images/MIT-OS1.png
